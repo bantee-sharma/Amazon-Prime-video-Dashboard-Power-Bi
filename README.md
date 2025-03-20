@@ -4,7 +4,7 @@ The image is a dashboard that provides a comprehensive overview of the content a
 
 Description:
 
-Top Statistics:
+**1. Top Statistics:**
 
 Total Titles: 9,655
 
@@ -18,7 +18,7 @@ Start Date of Titles: 1920
 
 End Date of Titles: 2021
 
-Rating by Total Shows:
+**2.Rating by Total Shows:**
 
 
 The most common rating is 13+ with 2.1K titles.
@@ -27,21 +27,26 @@ The most common rating is 13+ with 2.1K titles.
 
 Other ratings include ALL (1.3K), 18+ (1.2K), R (1K), and PG-13 (0.4K).
 
-Genres by Total Shows:
+**3.Genres by Total Shows:**
 
 Drama is the most prevalent genre with 986 titles.
+
 Other popular genres include Comedy (536), Drama, Suspense (399), Comedy, Drama (377), Animation, Kids (356), and Documentary (350).
-Total Shows by Country:
+
+**4.Total Shows by Country:**
 
 A world map indicating the distribution of shows by country, highlighting regions like North America, Europe, and parts of Asia and Africa.
-Movies and TV Shows:
+
+**5.Movies and TV Shows:**
 
 The platform consists of 7.81K TV shows (80.82%) and 1.85K movies (19.18%).
-Total Shows by Release Year and Type:
+
+**6.Total Shows by Release Year and Type:**
 
 There has been a significant increase in the number of titles, especially TV shows, in recent years, with a noticeable spike from the 2000s onward.
-Insights:
-Content Growth:
+
+**Insights:**
+**Content Growth:**
 
 The number of titles on Amazon Prime Video has been growing significantly, particularly from the 2000s, indicating a rapid expansion in the platform’s library.
 Genre Preferences:
